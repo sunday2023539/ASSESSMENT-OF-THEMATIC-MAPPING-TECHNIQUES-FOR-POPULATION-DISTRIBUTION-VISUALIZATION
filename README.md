@@ -7,7 +7,7 @@ Thematic maps play a critical role in communicating spatial patterns and support
 decision making. Among the various methods used to represent population density, Dot Density 
 maps, Filled Isopleths (Colour-graded), and Unfilled Isopleths (Contour-based) are widely 
 applied, yet their influence on users’ perception and interpretation of spatial density patterns 
-remains insufficiently understood. This study investigates how these three cartographic 
+remains insufficiently understood. This study investigates how these three cartographic
 representations affect the perception of population density, with particular emphasis on hotspot 
 identification and spatial gradient interpretation. A between-subjects online experiment was 
 conducted using maps representing both real-world and synthetic population distributions. 
@@ -26,7 +26,7 @@ Gradients, Map Usability, Spatial Cognition.
 
 ----
 ----
-#1.Introduction 
+# 1.Introduction 
 
 Thematic maps are special types of maps that show information about a topic, such as 
 population, income, or temperature. They are important in cartography to visualize spatial 
