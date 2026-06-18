@@ -26,7 +26,8 @@ Gradients, Map Usability, Spatial Cognition.
 
 ----
 ----
-1.Introduction 
+#1.Introduction 
+
 Thematic maps are special types of maps that show information about a topic, such as 
 population, income, or temperature. They are important in cartography to visualize spatial 
 patterns and support analysis (Slocum et al., 2023). 
