@@ -61,7 +61,7 @@ interpret spatial information through varying levels of abstraction and visual c
 (MacEachren 2004). However, different thematic mapping techniques emphasize different characteristics of spatial data. Because these visualization methods communicate information 
 in different ways, they may influence how users perceive, interpret, and evaluate spatial 
 patterns. 
-1.1  Map Interpretation and User-Centred Design 
+# 1.1  Map Interpretation and User-Centred Design 
 Research has shown that the way information is represented on a map influences not only what 
 users see but also how they understand and interpret spatial relationships (MachEachren, 2004). 
 Thematic maps communicate spatial information through abstraction, classification, and 
@@ -93,7 +93,7 @@ to be useful while remaining clear and easy to understand. This helps people to 
 like finding locations, making comparisons, or spotting patterns without getting confused. By 
 testing and comparing different type of maps, researchers can figure out which designs provide 
 the best mix of accuracy and user satisfaction. 
-1.2 Research Gap 
+# 1.2 Research Gap 
 While several studies have examined thematic mapping principles and cartographic 
 visualization techniques, relatively few have conducted comparative user-based evaluations 
 involving Dot Density, Filled Isopleth (colour graded) and Unfilled Isopleth (contour lines) 
@@ -130,15 +130,15 @@ representing spatial distribution patterns under both controlled synthetic and r
 remains unclear. Therefore, this study extends existing cartographic perception research by 
 comparing these thematic map types using objective performance measures (accuracy and 
 response time) as well as subjective evaluations of perceived difficulty. 
-1.3 Aim of the study 
+# 1.3 Aim of the study 
 This research aims to fill that gap by testing these three map types using both real-world 
 population data and simulated datasets. It examines how each technique affect user’ ability to 
 recognize population patterns such as hotspot and gradient effectively. 
-1.4 Research Objectives 
-1.4.1 Main Objective 
+# 1.4 Research Objectives 
+# 1.4.1 Main Objective 
 To assess the impact of different thematic mapping techniques on the interpretation of spatial 
 population distribution patterns. 
-1.4.2 Specific Objectives 
+# 1.4.2 Specific Objectives 
 1. To compare the effectiveness of Dot Density maps, Filled Isopleths, and Unfilled 
 Isopleths in hotspot identification tasks. 
 2. To evaluate how different thematic mapping techniques support spatial gradient 
