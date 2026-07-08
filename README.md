@@ -193,7 +193,7 @@ Participant characteristics such as age, gender, educational level, and cartogra
 
 This suggests that the main performance differences were primarily driven by the map representations themselves rather than by demographic differences between participants.
 
-<!-- Insert participant characteristics results here -->
+
 
 <img width="716" height="738" alt="Participant characteristics result" src="https://github.com/user-attachments/assets/d6f94da3-91ff-4f76-afb5-df76f94308a1" />
 
