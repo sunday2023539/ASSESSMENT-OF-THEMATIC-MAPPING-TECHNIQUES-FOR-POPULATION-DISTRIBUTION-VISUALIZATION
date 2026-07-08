@@ -101,6 +101,7 @@ Both real-world and synthetic datasets were used. The real-world datasets provid
 All maps were created from the same underlying datasets and were standardized using consistent layouts, scales, legends, and visual design settings. Dot Density maps represented population through point symbols, while Filled and Unfilled Isopleths were generated from continuous density surfaces.
 
 Survey data were collected using LimeSurvey and analysed using statistical methods such as Chi-square tests, Kruskal-Wallis tests, and a Generalized Linear Mixed Model (GLMM).
+
 Survey Link: https://survey.plus.ac.at/index.php/624757?lang=en
 
 <img width="725" height="752" alt="image" src="https://github.com/user-attachments/assets/632faa94-ec9c-41d3-bd01-820d6dccb409" />
